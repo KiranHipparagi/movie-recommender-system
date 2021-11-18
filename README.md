@@ -5,7 +5,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
-**If you want to view the deployed model, click on the following link:** https://github.com/kishan0725/The-Movie-Cinema
+**If you want to view the deployed model, click on the following link:** https://movierecommender-app.herokuapp.com/
 
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
